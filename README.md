@@ -5,7 +5,6 @@
 - Currently working on cheats for Krunker.io
 - Also interested in: UI/UX design and browser game development  
   
-<br>
  
  <p align="center">
  <img src="https://cdn.discordapp.com/attachments/560173144107909120/968478802214780928/github_banner.png">
@@ -13,6 +12,7 @@
 
 #
 **Text Editors**
+
 <img src="https://img.shields.io/badge/JS-WebStorm-ffe600"> <img src="https://img.shields.io/badge/Java-IntelliJ-00c8ff"> <img src="https://img.shields.io/badge/C%2B%2B-Visual%20Studio-9d00ff">
 
 ##  Profile Stats
@@ -22,4 +22,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=darcula">
 
-## 
+##
+![](https://komarev.com/ghpvc/?username=42infi&label=Profile+Views&style=flat-square)
+
