@@ -4,7 +4,8 @@
  - I've been developing cheats for more than 4 years
 - Currently working on cheats for Krunker.io
 - Also interested in: UI/UX design and browser game development  
-  
+ 
+ <br> 
  
  <p align="center">
  <img src="https://cdn.discordapp.com/attachments/560173144107909120/968478802214780928/github_banner.png">
