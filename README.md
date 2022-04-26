@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**42infi/42infi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Hey, I'm infi
+ 
+ - I've been developing cheats for more than 4 years
+- Currently working on cheats for Krunker.io
+- Also interested in: UI/UX design and browser game development  
+  
+<br>
+ 
+ <p align="center">
+ <img src="https://cdn.discordapp.com/attachments/560173144107909120/968478802214780928/github_banner.png">
+</p>
 
-Here are some ideas to get you started:
+#
+**Text Editors**
+<img src="https://img.shields.io/badge/JS-WebStorm-ffe600"> <img src="https://img.shields.io/badge/Java-IntelliJ-00c8ff"> <img src="https://img.shields.io/badge/C%2B%2B-Visual%20Studio-9d00ff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Profile Stats
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=42infi&theme=darcula&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=darcula">
+
+## 
