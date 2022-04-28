@@ -3,7 +3,7 @@
  
  - I've been developing cheats for more than 4 years
 - Currently working on cheats for Krunker.io
-- Also interested in: UI/UX design and browser game development  
+- Also interested in: Ui/Ux design and browser game development  
  
  <br> 
  
