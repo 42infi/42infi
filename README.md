@@ -2,7 +2,7 @@
  ## Hey, I'm infi
  
  - I've been developing cheats for more than 4 years
-- Currently working on cheats for Krunker.io
+- Currently working on cheats for Krunker.io Face it
 - Also interested in: Ui/Ux design and browser game development  
  
  <br> 
